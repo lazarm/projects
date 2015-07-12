@@ -50,6 +50,6 @@ test3 = [" X  X X  X XXX X X XX X X  XXXX X X X X ",
 import time
 
 s = time.clock()
-print numAllPercs(test3,3), #"hhhhhhhhhhhhhhwwwwwwwww"
+print numAllPercs(test3,3)
 s = time.clock()-s
 print s
